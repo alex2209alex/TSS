@@ -1,7 +1,10 @@
 package org.example;
 
 /// Specificatii
-
+/*
+Se dau doua numere intregi. Daca acestea sunt intre 1 si 10 sa se afuiseze cmmdc-ul lor.
+Altfel sa se arunce o eroare cu mesajul "Datele de intrare sunt invalide".
+*/
 
 public class Cmmdc {
     private static final String DATE_DE_INTRARE_INVALIDE = "Datele de intrare sunt invalide";
