@@ -1,9 +1,10 @@
-package org.example;
+package equivalencepartitioning;
 
+import org.example.Cmmdc;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-class CmmdcTest {
+class MCDCTest {
     // Conditia 15 a <= 0 || b <= 0
     // false true
     // true false
